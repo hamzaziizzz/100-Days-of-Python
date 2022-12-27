@@ -130,3 +130,6 @@ dmypy.json
 
 # Resources
 Resources/
+
+# Visual Studio Code
+.vscode/
